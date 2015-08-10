@@ -9,7 +9,7 @@ using System.Resources;
 [assembly: AssemblyTitle("Melomash")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Barbadoz Indie")]
 [assembly: AssemblyProduct("Melomash")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]

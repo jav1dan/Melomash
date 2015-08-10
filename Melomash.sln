@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melomash", "Melomash\Melomash.csproj", "{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|ARM.Build.0 = Debug|ARM
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|ARM.Deploy.0 = Debug|ARM
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|x86.ActiveCfg = Debug|x86
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|x86.Build.0 = Debug|x86
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Debug|x86.Deploy.0 = Debug|x86
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|ARM.ActiveCfg = Release|ARM
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|ARM.Build.0 = Release|ARM
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|ARM.Deploy.0 = Release|ARM
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|x86.ActiveCfg = Release|x86
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|x86.Build.0 = Release|x86
+		{0A6F1D71-0128-4A32-BE37-B856CD5B6EDD}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
